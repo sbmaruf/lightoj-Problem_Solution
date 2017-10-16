@@ -11,7 +11,7 @@ Lightoj user id : 9129 / Saiful Barih (Maruf)
  + All the problem statement
 
 ### Advanced Search Techniques
- - ####Binary Search/Bisection
+ - #### Binary Search/Bisection
    + 18/20 Checked
    + 18 Solution
    + All problem statement
