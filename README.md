@@ -12,4 +12,4 @@ Lightoj userid : 9129 / Saiful Barih (Maruf)
 
 
 
-NOTE :Special thanks to **Chowdhury Tushar** for downloading all the problem statements in pdf format from lightoj.com
+NOTE :Special thanks to **Chowdhury Tushar** for providing all the problem statements in pdf format from lightoj.com
