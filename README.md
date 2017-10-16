@@ -14,7 +14,11 @@ Lightoj user id : 9129 / Saiful Barih (Maruf)
  - #### Binary Search/Bisection
    + 18/20 Checked
    + 18 Solution
-   + All problem statement
+   + All the problem statement
 
+ - #### Ternary Search
+   + 2/2 Checked
+   + 2 Solution
+   + All the problem statement
 
 NOTE :Special thanks to [**Chowdhury Tushar**](https://www.facebook.com/cTushar.bd) for providing all the problem statements in pdf format from lightoj.com
