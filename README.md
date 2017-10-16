@@ -2,7 +2,7 @@
 
 # lightoj-Problem_Solution
 
-Lightoj userid : 9129 / Saiful Barih (Maruf)
+Lightoj user id : 9129 / Saiful Barih (Maruf)
 
 ### Beginners Problems
  
