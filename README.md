@@ -1,4 +1,4 @@
-**Work in progress**
+**Solution uploading..!! Work in progress**
 
 # lightoj-Problem_Solution
 
@@ -19,6 +19,12 @@ Lightoj user id : 9129 / Saiful Barih (Maruf)
  - #### Ternary Search
    + 2/2 Checked
    + 2 Solution
+   + All the problem statement
+
+### Data Structure
+ - #### Basic Data Structure
+   + 3/3 Checked
+   + 3 Solution 
    + All the problem statement
 
 NOTE :Special thanks to [**Chowdhury Tushar**](https://www.facebook.com/cTushar.bd) for providing all the problem statements in pdf format from lightoj.com
