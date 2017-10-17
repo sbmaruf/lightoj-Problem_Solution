@@ -26,5 +26,9 @@ Lightoj user id : 9129 / Saiful Barih (Maruf)
    + 3/3 Checked
    + 3 Solution 
    + All the problem statement
+ - #### Binary Indexed Tree
+   + 6/8 Checked
+   + 6 Solution 
+   + All the problem statement
 
 NOTE :Special thanks to [**Chowdhury Tushar**](https://www.facebook.com/cTushar.bd) for providing all the problem statements in pdf format from lightoj.com
