@@ -15,5 +15,6 @@ All the problem statement are updated in pdf format.
  -  Basic Data Structure : 3/3
  -  Binary Indexed Tree : 6/8
  -  Binary Search Tree : 2/3
+ -  Hash : 1/2
 
 NOTE :Special thanks to [**Chowdhury Tushar**](https://www.facebook.com/cTushar.bd) for providing all the problem statements in pdf format from lightoj.com
