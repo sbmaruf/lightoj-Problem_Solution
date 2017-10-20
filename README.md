@@ -16,6 +16,7 @@ All the problem statement are updated in pdf format.
  -  Binary Indexed Tree : 6/8
  -  Binary Search Tree : 2/3
  -  Hash : 1/2
+ -  Orthogonal Range Search : 3/6
 
 **Special Thanks:** All the solutions dedicated to my trainer [**Tarif Ezaz**](https://github.com/TarifEzaz) and my friend [**Mohammad Abdullah Matin Khan Zarzis**](https://www.facebook.com/jackal.1586) to whom learn to ***think***.
 
