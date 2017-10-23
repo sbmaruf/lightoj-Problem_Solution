@@ -22,6 +22,6 @@ All the problem statement are updated in pdf format.
 
 I also want to mention some of the other ***special names*** for their tremendous support. [Nafis Ahmed](https://github.com/d1xlord), [Mohammad Samiul Islam](https://github.com/forthright48), [Zobayer Hasan](http://zobayer.blogspot.sg/), [Forhad Ahmed](https://www.linkedin.com/in/forhadsustbd/) and [Leonardo Boshell](https://github.com/lbv/)
 
-**NOTE** : I don't claim all of the soutions to be mine. While I was solving the problems, I took help from different peoples and see other people's code for some problems. But I never submit any code without my complete understanding. I suugest those who will be following the repo to do so. Pasting code to online judges won't take you any further except frustration.
+**NOTE** : I don't claim all of the soutions to be mine. While I was solving the problems, I took help from different peoples and see other people's code for many problems. But I never submit any code without my complete understanding. I suugest those who will be following the repo to do so. Pasting code to online judges won't take you any further except frustration.
 
 **NOTE** :Thanks to [**Chowdhury Tushar**](https://www.facebook.com/cTushar.bd) for providing all the problem statements in pdf format from lightoj.com
