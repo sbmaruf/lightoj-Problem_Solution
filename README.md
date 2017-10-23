@@ -11,12 +11,14 @@ All the problem statement are updated in pdf format.
 ### Advanced Search Techniques
  -  Binary Search/Bisection : 18/20
  -  Ternary Search : 2/2
+
 ### Data Structure
  -  Basic Data Structure : 3/3
  -  Binary Indexed Tree : 6/8
  -  Binary Search Tree : 2/3
  -  Hash : 1/2
  -  Orthogonal Range Search : 3/6
+ -  Range Minimum Query : 4/7
 
 **Special Thanks:** All the solutions dedicated to my trainer [**Tarif Ezaz**](https://github.com/TarifEzaz) and my friend [**Mohammad Abdullah Matin Khan Zarzis**](https://www.facebook.com/jackal.1586) to whom learn to ***think***.
 
