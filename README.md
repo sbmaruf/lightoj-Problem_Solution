@@ -23,9 +23,8 @@ All the problem statement are updated in pdf format.
  -  Trie Tree : 4/4
 
 ### Divide and Conquer
- -  Discrete Logarithm/Shank`s Baby-step Giant-step 0/1
- -  Dynamic Programming
-	 + Arrange the Numbers
+ -  Discrete Logarithm/Shank`s Baby-step Giant-step : 0/1
+ -  Dynamic Programming : added all problems, not reviewed
 
 **Special Thanks:** All the solutions dedicated to my trainer [**Tarif Ezaz**](https://github.com/TarifEzaz) and my friend [**Mohammad Abdullah Matin Khan Zarzis**](https://www.facebook.com/jackal.1586) to whom I learned to ***think***.
 
