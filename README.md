@@ -27,6 +27,12 @@ All the problem statement are updated in pdf format.
  -  Dynamic Programming : 85/106
  -  Greedy : 12/14
 
+### Recursion/Branch and Bound
+ -  Backtracking with Pruning/Branch and Bound : 0/1
+ -  Basic Recursion : 1/2
+ -  IDA* Search : 1/4
+ -  Parsing/Grammar : 0/2
+
 **Special Thanks:** All the solutions dedicated to my trainer [**Tarif Ezaz**](https://github.com/TarifEzaz) and my friend [**Mohammad Abdullah Matin Khan Zarzis**](https://www.facebook.com/jackal.1586) to whom I learned to ***think***.
 
 I also want to mention some of the other ***special names*** for their tremendous support. [Nafis Ahmed](https://github.com/d1xlord), [Mohammad Samiul Islam](https://github.com/forthright48), [Zobayer Hasan](http://zobayer.blogspot.sg/), [Forhad Ahmed](https://www.linkedin.com/in/forhadsustbd/) and [Leonardo Boshell](https://github.com/lbv/)
