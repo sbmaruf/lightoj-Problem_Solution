@@ -35,7 +35,9 @@ All the problem statement are updated in pdf format.
 
 ### Geometry
  -  Basic Geometry : 16/18
-
+ -  Computational Geometry : 7/12
+ -  Convex Hull : 3/4
+ -  Pick`s theorem : 1/1
 
 **Special Thanks:** All the solutions dedicated to my trainer [**Tarif Ezaz**](https://github.com/TarifEzaz) and my friend [**Mohammad Abdullah Matin Khan Zarzis**](https://www.facebook.com/jackal.1586) to whom I learned to ***think***.
 
