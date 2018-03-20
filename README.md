@@ -46,6 +46,8 @@ All the problem statement are updated in pdf format.
 ### Flow/Matching
  -  Bipartite Matching : 8/13
  -  Max Flow/Min Cut : 13/15
+ -  Min Cost Max Flow : 5/7
+ -  Weighted Bipartite Matching/Hungarian Algorithm : 2/4
 
 **Special Thanks:** All the solutions dedicated to my trainer [**Tarif Ezaz**](https://github.com/TarifEzaz) and my friend [**Mohammad Abdullah Matin Khan Zarzis**](https://www.facebook.com/jackal.1586) to whom I learned to ***think***.
 
