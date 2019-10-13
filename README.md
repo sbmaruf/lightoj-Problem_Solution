@@ -76,7 +76,7 @@ All the problem statement are updated in pdf format.
  -  Knuth-Morris-Pratt : 2/5
  -  Suffix Array/Suffix Tree : 0/3
 
-**Special Thanks:** All the solutions dedicated to my trainer [**Tarif Ezaz**](https://github.com/TarifEzaz) and my friend [**Mohammad Abdullah Matin Khan Zarzis**](https://www.facebook.com/jackal.1586) to whom I learned to ***think***.
+**Special Thanks:** All the solutions dedicated to my trainer [**Tarif Ezaz**](https://github.com/TarifEzaz) and my friend [**Mohammad Abdullah Matin Khan Zarzis**](https://www.facebook.com/jackal.1586) from whom I learned to ***think***.
 
 I also want to mention some of the other ***special names*** for their tremendous support. [Nafis Ahmed](https://github.com/d1xlord), [Mohammad Samiul Islam](https://github.com/forthright48), [Zobayer Hasan](http://zobayer.blogspot.sg/), [Forhad Ahmed](https://www.linkedin.com/in/forhadsustbd/) and [Leonardo Boshell](https://github.com/lbv/)
 
